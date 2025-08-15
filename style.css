@@ -1,7 +1,7 @@
 body {
     margin: 0;
     font-family: Arial, sans-serif;
-    background-color: #808080;
+    background-color: #1a1a1a; /* Darker background */
 }
 .rainbow-bar {
     height: 6px;
